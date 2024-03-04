@@ -1,0 +1,21 @@
+.element1{
+    width: 100%;
+    max-width: 1400px;
+    height: auto;
+    /* border: 2px solid white; */
+    padding: 70px 16px 16px 16px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.element2{
+    width: 100%;
+    /* border: 2px solid white; */
+    height: auto;
+    display: grid;
+    padding: 16px;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}

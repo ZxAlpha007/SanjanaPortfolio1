@@ -1,0 +1,17 @@
+.gridBase{
+    width: 100%;
+    max-width: 1400px;
+    height: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    /* border: 2px solid white; */
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+@media(max-width:1500px){
+    .gridBase{
+    grid-template-columns: auto auto;
+    }
+}

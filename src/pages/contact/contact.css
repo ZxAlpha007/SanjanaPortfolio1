@@ -1,0 +1,21 @@
+.ce1{
+    width: 100%;
+    max-width: 1400px;
+    height: 100vh;
+    /* border: 2px solid white; */
+    padding: 80px 16px 16px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ce2{
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid white; */
+    background-image: url(https://i.pinimg.com/originals/8e/9f/0b/8e9f0befda7a445ea371c14ea3694023.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    /* padding: 16px; */
+}

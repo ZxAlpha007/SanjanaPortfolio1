@@ -1,0 +1,41 @@
+.cardbody{
+    width: 400px;
+    height: 300px;
+    /* border: 2px solid white; */
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    transition: 0.2s all ease-in;
+    cursor: pointer;
+}
+.cardbody:hover{
+    background-color: rgba(190, 30, 30, 0.5);
+}
+.imager{
+    /* border: 2px solid white; */
+    border-radius: 10px;
+    width: 100%;
+    height: 230px;
+}
+.imagerr{
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.texterr{
+    /* border: 2px solid white; */
+    width: 100%;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px;
+    gap: 150px;
+}

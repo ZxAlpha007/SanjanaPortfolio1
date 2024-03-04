@@ -1,0 +1,78 @@
+.dabba {
+    /* border: 2px solid white; */
+    width: 100%;
+    /* max-width: 1400px; */
+    height: 100vh;
+    /* background-color: black; */
+    /* border-radius: 10px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 16px 16px 16px;
+}
+
+.dabba2 {
+    background-image: url('https://cutewallpaper.org/21/anime-gif-1920x1080/Cyberpunk-Coffee-redditery-Rainmeter-in-2019-Pixel-.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* border: 2px solid red; */
+    max-width: 1400px;
+    width: 100%;
+    height: 100%;
+    /* background-color: black; */
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+}
+.dabba3{
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.borderxx {
+    /* border: 2px solid white; */
+}
+
+.PersonImage {
+    width: 50%;
+    height: 100%;
+    padding: 50px 170px;
+}
+
+.Info {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 20px;
+    gap: 30px;
+}
+
+.imagePerson {
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.headingtext {
+    font-size: 40px;
+}
+
+.paratext {
+    font-size: 20px;
+}

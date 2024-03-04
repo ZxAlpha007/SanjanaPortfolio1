@@ -1,0 +1,65 @@
+.dragCommon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    cursor: grab;
+    background-image: url('https://media4.giphy.com/media/xjIsb648nX0pw8kdBd/giphy.webp?cid=ecf05e478me31pohhbgof3gr7slegqmym7ddap5iyrrk3yn2&rid=giphy.webp&ct=g');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dragCommon:active{
+    cursor: grabbing;
+}
+
+.f1 {
+    /* background-color: white; */
+    /* border: 2px solid white; */
+
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 4;
+}
+
+.f2 {
+    /* background-color: white; */
+    /* border: 2px solid white; */
+
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 4;
+}
+
+.f3 {
+    /* background-color: white; */
+    /* border: 2px solid white; */
+
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 4;
+}
+
+.f4 {
+    /* background-color: white; */
+    /* border: 2px solid white; */
+
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 4;
+}
